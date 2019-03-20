@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "babel-mordecai2019",
+  "private_key_id": "61fefdad68c929913514531c3287bfe423b09eb7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYYo98S1/zQ7Es\n4AAJTCd9IQKvH1RrZAgfhP7E9fR9JejM6dgh7VY1JclcVEM11son5C62dkqZd8Zt\nhHZ9P76fg795qMvN1Y7t4TMtjCUPXdtkA455ARWhxtqxbK3lsBE5g0Zqa+UbDgq7\nEuQz8I3MSEM2lRG4tPVHXCTpgO5g/+RSlGeNr/mojL5nwLTv9V0r1c6VwzNtZcXX\n4JWV9Z5NWVWEPmUGF1WPT2REi1455LF8SK1KTV0Uvwm9NkVwSzzX/AACQeg9L0px\n0/84+Uu+/EDmi0B0Jb/SjTsFej+IlRnXUWV/QJ+cyD+3ndgLYKbxqmHNSq4BMKSF\naiiyVK0FAgMBAAECggEAFNBmPO6DLEM2p7pkRoCsy7yBJZc955aXsXB5kTiXa/JZ\nklxsDddmk3YvCFKSpHsktvGcDLEUO+7ph19WhnW7QFzL7kfuUr5YIUmoQplYd0Hv\n+I7fBYS1L/qQzsBFefKVtZKLE3GNeCzBm30VtmlNOnk4/ecY7Ut6zIJwioV8aJgH\ncR0XmOgwTPcsLdlMG44m1ShFv8Vj4l5M1NQPg1qxYz7ctE2P68w4XuvoBvdFFFK+\np1EqHPYjcbyeukIxEc2omYtYeE8hK2ecNdOc+k7229GQHkLKNkzdr2p29geT0VrN\nun0C9ndX5oqD/7IRlLIGdXkeALUPZktGQgDCM/HvgQKBgQDy7CLxc3kE8mM7Lsp9\n64znjHXtDEod0VlOHisyZBL6rh2aDh7SvQTjw44doNNJvu0NlSR/ChLKKZQMSfwZ\nHSrCn/u9iKLVEH2EEqs2C8LymOzPYSrqZ6XTdRGqBt+oMImz3Zu6ysrMNNO7/TZ4\npo3JboCE7wAa2ac7VyLUAHaZKwKBgQDkCLIVC+3Pd3uotDDv/3F1fPltjjf2G09s\njX1VP8PolC1wnLDxawP7FvOsiHVRFfBfRVymh7DPrMootCoehI8pW5OrlebP0qxE\nhs0OyKqa/CJzejZohbb9aNje8asVroRJ0knpls2bnSLeRyb+9OvAnnhXRXoAgB5X\nv4lvJLRajwKBgQCzBRSHTarM23gHgGcXvwQ7C8dIJztjmAkxSYhZ/WgDN1d3VZqf\ngU7eLxpHeWLcQQjfbp7TxG+ubk+9crSHKXh+r3nM5qnhTOLC9yMXlDlZoRs7hQck\ncbfCCs82txQSFZsVY2ZFlPc44GF9c5C1/0AURwwNazhvkSDt2TxAcgr0uwKBgFQ7\nIgzEK0PHTtYyOSFtqetMDpZ5QhKWY/AlE3a55xOyKFbAiluivAWzpK7GeQ9Km0+V\nv3OEC7uqh8IhSq2bKYaNXS60YF3D4/4sDPK5DMvS9qbRLefN/Jn+cJ1ph1iq7hKW\nqtat7aTdllOk1LK4pZyw7KLP9xDYQl0HUyzK0hPhAoGAdGlRonVZ0r5SkW1wwlZA\nlE4laQ6NsEV/Zs5Evkps/YrvZmUKoJp6QYuMhY/A4D+8lDlqeM7H6GPW6v1vr8u/\nwa+vhSMsCdcGNDxgkQ5qjPGJ+BTTdlLKiv8ev9DbQTvqcTrGPBZSsyEXtdjv9d/X\njwdEHFGSMsDYUB9AkCKxwdI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mordecai-finalproject@babel-mordecai2019.iam.gserviceaccount.com",
+  "client_id": "113684133973357735038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mordecai-finalproject%40babel-mordecai2019.iam.gserviceaccount.com"
+}

@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+@using Google.Cloud.Translation.V2;
+@using Babel.Controllers;
+
+@model Trans
+@{
+    var data = (List<Lang>)ViewData["Languages"];
+}
+<h3>
+    @using (Html.BeginForm())
+    {
+        /**/
+        <div class="row">
+            <div class="col-md-4">
+                @Html.TextAreaFor(model => model.Text, new { @cols = 180, @rows = 8 })
+
+            </div>
+            <div class="col-md-4">
+
+                <input type="submit" value="Translate &raquo;" class="btn btn-primary btn-lg" />
+            </div>
+            <div class="col-md-4">
+                <div class="jumbotron">
+
+
+                    <h3>@ViewBag.Message  </h3>
+                </div>
+                <select name="Code" id="Code">
+                    @foreach (Lang item in data)
+                    {
+                    <option value="@item.Code">@item.Name</option>
+                    }
+
+                   
+                </select>
+            </div>
+        </div>
+    }
+    @*@Html.DropDownList("AllLanguages")*@
